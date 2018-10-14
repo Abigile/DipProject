@@ -1,8 +1,0 @@
-/env/*
-/__pycache__/*
-*.log
-/newsform.ui
-/newsform.py
-/proxies.txt
-/settings.py
-/skillbase.db
